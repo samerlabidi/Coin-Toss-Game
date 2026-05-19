@@ -61,3 +61,9 @@ Run the program:
 ```bash
 python main.py
 ```
+Author
+- Lina Nouri
+- Jawaher Nefzi
+- Samer Labidi
+- Yassine Karoui
+- Hibatou Allah Ben Maatoug
